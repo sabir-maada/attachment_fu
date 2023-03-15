@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add docs guide terminal images (#8819)
