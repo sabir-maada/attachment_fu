@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
