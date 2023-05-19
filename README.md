@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+fix for predicting with batch_size > 1 (#47)
