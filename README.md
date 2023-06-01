@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Fix TypeError in check_cfg() (#9245)
