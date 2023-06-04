@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
