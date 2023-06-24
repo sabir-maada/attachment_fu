@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Fix device counting method to account for double-digit device IDs (#8502)
