@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Improve Coral Edge TPU guide (#8160)
