@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Replacing Images for torchscript.md (#8596)
