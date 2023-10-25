@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
