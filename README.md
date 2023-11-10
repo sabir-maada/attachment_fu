@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
