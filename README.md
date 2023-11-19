@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix Multi-GPU resume bug (#7328)
