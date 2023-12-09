@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix ONNX GPU inference bug (#6840)
