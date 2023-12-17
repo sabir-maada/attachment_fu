@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
