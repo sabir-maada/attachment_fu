@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
