@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Hold failed upload metrics and upload with next upload metrics (#8513)
