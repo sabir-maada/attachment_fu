@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add Amazon Sagemaker Docs integrations page (#7293)
