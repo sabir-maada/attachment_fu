@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Fix docs links (#7096)
