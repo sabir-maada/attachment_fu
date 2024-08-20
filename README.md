@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add visuals in guides/distance-calculation.md (#7876)
