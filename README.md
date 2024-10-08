@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
